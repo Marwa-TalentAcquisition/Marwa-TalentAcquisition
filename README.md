@@ -76,6 +76,8 @@ https://audensiel.ca/emplois/
 
 ## 💼 Open Positions
 
-- React/.NET developer 
-- Python / React developer 
-- Data Engineer Databricks 
+>🔹 [Python / React developer](https://audensiel.ca/project/developpeur-react-python-f-h-nb-2/)
+>
+>🔹 [React/.NET developer]( https://audensiel.ca/project/developpeur-react-net-f-h-nb/)
+>
+>🔹 [Data Engineer Databricks](https://audensiel.ca/project/data-engineer/)
