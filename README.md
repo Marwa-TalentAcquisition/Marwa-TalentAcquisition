@@ -30,10 +30,18 @@ Core focus areas:
 - Production Support
 - Full IT lifecycle recruitment
 
+### 📫 Contacts
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.kadri@audensiel.com)
+
+<a href="https://www.linkedin.com/in/marwa-kadri/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+
+
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
-
 Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 
 ## About Audensiel Canada 
@@ -48,8 +56,11 @@ Nos 5️⃣ pôles d'expert·e·s clés accélèrent les projets digitaux ambiti
 
 👉 Bienvenue sur notre page LinkedIn. Ici, que vous soyez client·e, candidat·e ou curieux·se, vous découvrirez notre compagnie de l'intérieur. #AudensielCanada #VieChezAudensiel
 
-Sito Web
+Website
+
 https://www.audensiel.ca
+
+https://audensiel.ca/emplois/
 
 ### 🔥 GitHub Streak
 
@@ -57,6 +68,8 @@ https://www.audensiel.ca
   <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Marwa-TalentAcquisition&theme=dark" alt="GitHub Streak" />
 </a>
 
+
+## 💼 Open Positions
 
 <!--
 **Marwa-TalentAcquisition/Marwa-TalentAcquisition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
