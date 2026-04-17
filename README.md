@@ -45,21 +45,23 @@ Core focus areas:
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
-Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
+Join the Team! Apply now on our website: 
 
-## About Audensiel Canada 
+https://www.audensiel.com/jobs
+
+## 🍁 About Audensiel Canada 🍁
 
 Depuis 2018, Audensiel Canada fait de vos activités numériques et TI un moteur de croissance. 🚀
 
-Nos 5️⃣ pôles d'expert·e·s clés accélèrent les projets digitaux ambitieux des PME et des grands groupes nord-américains : cybersécurité, agilité, expérience utilisateur, développement et gestion des données & IA.
+Nos pôles d'expert·e·s clés accélèrent les projets digitaux ambitieux des PME et des grands groupes nord-américains : cybersécurité, agilité, expérience utilisateur, développement et gestion des données & IA.
 
 🚀 Nous propulsons nos client·e·s vers leur réussite stratégique, organisationnelle et opérationnelle, en les accompagnant depuis l'audit-conseil en TI à la formation de leurs équipes métiers.
 
 🤲 Nous plaçons nos partenaires au cœur de nos priorités en leur apportant de la valeur au-delà de notre expertise technique, grâce à un engagement éco-responsable poussé et une culture d’entreprise humaine forte.
 
-👉 Bienvenue sur notre page LinkedIn. Ici, que vous soyez client·e, candidat·e ou curieux·se, vous découvrirez notre compagnie de l'intérieur. #AudensielCanada #VieChezAudensiel
+👉 Bienvenue sur notre page LinkedIn. Ici, que vous soyez client·e, candidat·e ou curieux·se, vous découvrirez notre compagnie de l'intérieur. 
 
-Website
+Join the Team! Apply now on our website: 
 
 https://www.audensiel.ca
 
@@ -74,17 +76,6 @@ https://audensiel.ca/emplois/
 
 ## 💼 Open Positions
 
-<!--
-**Marwa-TalentAcquisition/Marwa-TalentAcquisition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React/.NET developer 
+- Python / React developer 
+- Data Engineer Databricks 
