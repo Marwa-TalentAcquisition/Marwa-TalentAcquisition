@@ -45,9 +45,8 @@ Core focus areas:
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
-Join the Team! Apply now on our website: 
 
-https://www.audensiel.com/jobs
+[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 
 ## 🍁 About Audensiel Canada 🍁
 
@@ -61,11 +60,10 @@ Nos pôles d'expert·e·s clés accélèrent les projets digitaux ambitieux des 
 
 👉 Bienvenue sur notre page LinkedIn. Ici, que vous soyez client·e, candidat·e ou curieux·se, vous découvrirez notre compagnie de l'intérieur. 
 
-Join the Team! Apply now on our website: 
+### 🚀 Join the Team! Apply now on our websites:
 
-https://www.audensiel.ca
+[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel_CA-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://audensiel.ca/emplois/)
 
-https://audensiel.ca/emplois/
 
 ### 🔥 GitHub Streak
 
