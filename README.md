@@ -14,7 +14,7 @@ Based in Montréal, I support organizations in identifying and attracting high-i
 
 While I recruit across various IT domains (Data, Development, Infrastructure, Cloud, Support, QA), I have developed a strong expertise within Capital Markets environments, including Front Office systems, Trading applications, Repo / Securities Finance, Regulatory and Production Support (L2/L3).
 
-What differentiates me is not only sourcing capability, but business understanding.
+What differentiates me is not only my sourcing capability, but my understanding of your business
 
 I work closely with stakeholders to understand:
 
@@ -48,23 +48,21 @@ Core focus areas:
 | <img src="https://github.com/HibaBadra1004.png" width="40" style="border-radius:50%"> | **Hiba Badra** | [@HibaBadra1004](https://github.com/HibaBadra1004) |
 | <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) |
 
-## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
+## 🌎 About Audensiel 🌎
 
-Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
+Audensiel is a global digital transformation partner specializing in high-tech and business consulting across multiple sectors like Banking, Healthcare and Manufacturing. We deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Our expertise extends to robust Cybersecurity auditing and strategic IT governance. We are currently hiring to support our rapid international growth all over the world.
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 
 ## 🍁 About Audensiel Canada 🍁
 
-Depuis 2018, Audensiel Canada fait de vos activités numériques et TI un moteur de croissance. 🚀
+Our core areas of expertise help accelerate ambitious digital projects for SMEs and large North American organizations: cybersecurity, agility, user experience, development, and data & AI management.
 
-Nos pôles d'expert·e·s clés accélèrent les projets digitaux ambitieux des PME et des grands groupes nord-américains : cybersécurité, agilité, expérience utilisateur, développement et gestion des données & IA.
+🚀 We support our clients in achieving their strategic, organizational, and operational goals - from IT consulting and advisory to training their business teams.
 
-🚀 Nous propulsons nos client·e·s vers leur réussite stratégique, organisationnelle et opérationnelle, en les accompagnant depuis l'audit-conseil en TI à la formation de leurs équipes métiers.
+🤲 We place our employees and partners at the heart of our priorities by delivering value beyond technical expertise, through a strong eco-responsible commitment and a people-first company culture.
 
-🤲 Nous plaçons nos partenaires au cœur de nos priorités en leur apportant de la valeur au-delà de notre expertise technique, grâce à un engagement éco-responsable poussé et une culture d’entreprise humaine forte.
-
-👉 Bienvenue sur notre page LinkedIn. Ici, que vous soyez client·e, candidat·e ou curieux·se, vous découvrirez notre compagnie de l'intérieur. 
+👉 Welcome to our GitHub page! Whether you’re a candidate, client, or simply curious, you’ll get a behind-the-scenes look at our jobs and recruiters' specializations.
 
 ### 🚀 Join the Team! Apply now on our websites:
 
