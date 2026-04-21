@@ -41,6 +41,12 @@ Core focus areas:
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 
+### 👥 Team Members on GitHub
+
+| Avatar | Name | GitHub Profile |
+| :---: | :--- | :--- |
+| <img src="https://github.com/HibaBadra1004.png" width="40" style="border-radius:50%"> | **Hiba Badra** | [@HibaBadra1004](https://github.com/HibaBadra1004) |
+| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) |
 
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
