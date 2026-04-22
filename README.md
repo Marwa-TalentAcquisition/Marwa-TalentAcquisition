@@ -41,6 +41,15 @@ Core focus areas:
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 
+## 💼 Open Positions Dashboard
+
+| Status | Role & Stack | Location | Action |
+| :--- | :--- | :--- | :--- |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Python / React Developer** <br> `Python` • `React` • `Full-stack` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/developpeur-react-python-f-h-nb-2/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **React / .NET Developer** <br> `React` • `.NET` • `C#` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/developpeur-react-net-f-h-nb/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Engineer** <br> `Databricks` • `Big Data` • `Azure/AWS` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/data-engineer/) |
+
+
 ### 👥 Team Members on GitHub
 
 | Avatar | Name | GitHub Profile | LinkedIn |
@@ -76,12 +85,5 @@ Our core areas of expertise help accelerate ambitious digital projects for SMEs 
 </a>
 
 
-## 💼 Open Positions Dashboard
-
-| Status | Role & Stack | Location | Action |
-| :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Python / React Developer** <br> `Python` • `React` • `Full-stack` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/developpeur-react-python-f-h-nb-2/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **React / .NET Developer** <br> `React` • `.NET` • `C#` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/developpeur-react-net-f-h-nb/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Engineer** <br> `Databricks` • `Big Data` • `Azure/AWS` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/data-engineer/) |
 
 ---
