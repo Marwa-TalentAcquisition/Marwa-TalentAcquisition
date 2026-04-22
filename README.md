@@ -76,10 +76,12 @@ Our core areas of expertise help accelerate ambitious digital projects for SMEs 
 </a>
 
 
-## 💼 Open Positions
+## 💼 Open Positions Dashboard
 
->🔹 [Python / React developer](https://audensiel.ca/project/developpeur-react-python-f-h-nb-2/)
->
->🔹 [React/.NET developer]( https://audensiel.ca/project/developpeur-react-net-f-h-nb/)
->
->🔹 [Data Engineer Databricks](https://audensiel.ca/project/data-engineer/)
+| Status | Role & Stack | Location | Action |
+| :--- | :--- | :--- | :--- |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Python / React Developer** <br> `Python` • `React` • `Full-stack` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/developpeur-react-python-f-h-nb-2/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **React / .NET Developer** <br> `React` • `.NET` • `C#` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/developpeur-react-net-f-h-nb/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Engineer** <br> `Databricks` • `Big Data` • `Azure/AWS` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/data-engineer/) |
+
+---
