@@ -8,6 +8,17 @@
 </p>
 
 
+<h3 align="center">📫 Contacts</h3>
+
+<p align="center">
+  <a href="mailto:m.kadri@audensiel.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/marwa-kadri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 I'm a bilingual (FR & EN) IT Recruitment Specialist with a strong focus on Capital Markets environments.
 
 Based in Montréal, I support organizations in identifying and attracting high-impact IT professionals across complex and production-driven ecosystems.
@@ -33,13 +44,7 @@ Core focus areas:
 - Production Support
 - Full IT lifecycle recruitment
 
-### 📫 Contacts
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.kadri@audensiel.com)
-
-<a href="https://www.linkedin.com/in/marwa-kadri/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
 
 ## 💼 Open Positions Dashboard
 
@@ -62,6 +67,8 @@ Core focus areas:
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across multiple sectors like Banking, Healthcare and Manufacturing. We deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Our expertise extends to robust Cybersecurity auditing and strategic IT governance. We are currently hiring to support our rapid international growth all over the world.
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/audensiel/)
 
 ## 🍁 About Audensiel Canada 🍁
 
