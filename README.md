@@ -84,6 +84,7 @@ Our core areas of expertise help accelerate ambitious digital projects for SMEs 
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel_CA-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://audensiel.ca/emplois/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Audensiel%20Canada-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?keywords=audensiel%20canada&origin=GLOBAL_SEARCH_HEADER)
 
 ### 🔥 GitHub Streak
 
