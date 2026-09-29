@@ -55,12 +55,6 @@ Core focus areas:
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Engineer** <br> `Databricks` • `Big Data` • `Azure/AWS` | 📍 Montréal (Hybrid) | [**View Job**](https://audensiel.ca/project/data-engineer/) |
 
 
-### 👥 Team Members on GitHub
-
-| Avatar | Name | GitHub Profile | LinkedIn |
-| :---: | :--- | :--- | :--- |
-| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) | [Profile](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/) |
-| <img src="https://github.com/HibaBadra1004.png" width="40" style="border-radius:50%"> | **Hiba Badra** | [@HibaBadra1004](https://github.com/HibaBadra1004) | [Profile](https://linkedin.com/in/hiba-badra-023480194/) 
 
 ## 🌎 About Audensiel 🌎
 
